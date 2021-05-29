@@ -15,4 +15,4 @@ CoFiX DAO contract address: 0x278f5d08bEa1989BEfcC09A20ad60fB39702D556
 
 CoFiXCore
 
-2021.05.17
+2021.05.29
