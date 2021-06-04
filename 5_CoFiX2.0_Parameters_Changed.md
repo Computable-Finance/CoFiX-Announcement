@@ -11,7 +11,7 @@ github: https://github.com/Computable-Finance/CoFiX-V2.0
 | Oracle price timeout | 3600 seconds |
 | Oracle price deviation limit | ±10% |
 | θ | 0.002 |
-| VOL-BASE | *** 50 *** |
+| VOL-BASE | ** 50 ** |
 | CGama-usdt | 1 |
 | CGama-hbtc | 1 |
 | CGama-nest | 100 |
@@ -29,8 +29,8 @@ github: https://github.com/Computable-Finance/CoFiX-V2.0
 | CoFi repurchase limit | 15000CoFi |
 | Oracle price deviation limit for repurchase | ±5% |
 | Block time | 14 seconds |
-| k formula | *** K=(0.00002*T+40*σ)*γ(σ) *** |
-| Impact cost | *** α=0，β=0.00002 *** |
+| k formula | ** K=(0.00002*T+40*σ)*γ(σ) ** |
+| Impact cost | ** α=0，β=0.00002 ** |
 
 
 CoFiXCore
