@@ -2,6 +2,8 @@
 
 Oracle price deviation limit for repurchase change to ±10%.
 
+The address of CoFiXDAO will changed, new address will be shown soon.
+
 Upgrade time: Jun-11-2021 07:00 AM +UTC
 
 github: https://github.com/Computable-Finance/CoFiX-V2.0
