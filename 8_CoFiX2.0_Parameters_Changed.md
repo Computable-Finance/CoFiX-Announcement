@@ -2,7 +2,7 @@
 
 The repurchase quota is changed from 50 to 100 per block, and the cumulative upper limit is changed to 30,000.
 
-The address of CoFiXDAO will changed.
+The address of CoFiXDAO will changed, new address is: 0x31127c12bc0C0d7D779dDfd57A87697b067FB100.
 
 Upgrade time: Jun-12-2021 06:00 AM +UTC
 
