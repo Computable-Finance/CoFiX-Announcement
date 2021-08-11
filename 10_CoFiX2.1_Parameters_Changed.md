@@ -1,8 +1,8 @@
-# CoFiX v2.1 Parameter Change Report
+# CoFiX v2.1 Parameters Changed
 
-It is planned to adjust some parameters of CoFiX v2.1, as shown in the following table after adjustment.
+The parameters of CoFiX v2.1 have been adjusted, see the table below for details 
 
-Upgrade time: Aug-11-2021 08:00 AM +UTC
+Upgrade time: Aug-11-2021 07:30 AM +UTC
 
 github: https://github.com/Computable-Finance/CoFiX-V2.0
 
