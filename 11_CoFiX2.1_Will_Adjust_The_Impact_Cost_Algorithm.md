@@ -1,6 +1,6 @@
 # CoFiX v2.1 will adjust the impact cost algorithm
 
-Cofix v2.1 will adjust the impact cost algorithm as follows。
+Cofix v2.1 will adjust the impact cost algorithm as follows.
 
 C = vol * β,  β = 0.00001
 
