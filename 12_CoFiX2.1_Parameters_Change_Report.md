@@ -2,7 +2,7 @@
 
 It's plan to remove the usdt pair, and the parameters of CoFiX v2.1 will adjusted, see the table below for details 
 
-github: https://github.com/Computable-Finance/CoFiX-V2.0
+github: https://github.com/Computable-Finance/CoFiX-V2.1
 
 # Parameter List
 
@@ -14,19 +14,19 @@ github: https://github.com/Computable-Finance/CoFiX-V2.0
 | VOL-hbtc | 100 |
 | VOL-nest | 5 |
 | VOL-cofi | ** 0.5 ** |
-| Mining speed for trader of binary pool | ** 0.5CoFi/eth ** |
-| Mining speed for trader of eth anchor pool | ** 0.5CoFi/eth ** |
-| Mining speed for trader of usd anchor pool | ** 0.00025CoFi/usd ** |
+| Mining speed for trader of binary pool | 0.5CoFi/eth |
+| Mining speed for trader of eth anchor pool | 0.5CoFi/eth |
+| Mining speed for trader of usd anchor pool | 0.00025CoFi/usd |
 | Trade mining percent for CNode | 10% |
 | Mining speed for CNode | 0.2CoFi/block |
 | Mining speed for LP | 1.8CoFi/block |
 | LP-nest speed | 0.4CoFi/block |
 | LP-hbtc speed | 0.2CoFi/block |
 | LP-cofi speed | 0.4CoFi/block |
-| LP-xeth speed | 0.2CoFi/block |
+| LP-xeth speed | ** 0.2CoFi/block ** |
 | LP-xpeth speed | 0.15CoFi/block |
-| LP-xusdt speed | 0.2CoFi/block |
-| LP-xpusd speed | 0.15CoFi/block |
+| LP-xusdt speed | ** 0.2CoFi/block ** |
+| LP-xpusd speed | ** 0.15CoFi/block ** |
 | LP-xusdc speed | 0.1CoFi/block |
 | ETH/USDT ratio | 1 : 2000 |
 | ETH/HBTC ratio | 20 : 1 |
