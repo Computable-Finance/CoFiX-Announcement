@@ -1,8 +1,10 @@
 # CoFiX v2.1 Parameters Changed
 
-The usdt pair is removed, and the parameters of CoFiX v2.1 will adjusted, see the table below for details 
+The usdt pair is removed, and the parameters of CoFiX v2.1 is adjusted, see the table below for details 
 
 github: https://github.com/Computable-Finance/CoFiX-V2.1
+
+Upgrade time: Aug-31-2021 09:30 AM +UTC
 
 # Parameter List
 
@@ -15,8 +17,8 @@ github: https://github.com/Computable-Finance/CoFiX-V2.1
 | VOL-nest | 5 |
 | VOL-cofi | 0.5 |
 | Mining speed for trader of binary pool | 0.5CoFi/eth |
-| Mining speed for trader of eth anchor pool | 0.5CoFi/eth |
-| Mining speed for trader of usd anchor pool | 0.00025CoFi/usd |
+| Mining speed for trader of eth anchor pool | ** 0.0CoFi/eth ** |
+| Mining speed for trader of usd anchor pool | ** 0.0CoFi/usd ** |
 | Trade mining percent for CNode | 10% |
 | Mining speed for CNode | 0.2CoFi/block |
 | Mining speed for LP | 1.8CoFi/block |
